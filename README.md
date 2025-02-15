@@ -1,5 +1,18 @@
 # React-shop-cloudfront
 
+## Task 2 - Serving SPA
+
+URL of instructions: https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/02_serving_spa/task.md
+
+What has been done:
+  - [x] Manual Bucket + CloudFront creation: done
+  - [] Automatic Bucket + CloudFront creation: done
+
+Manual creation
+- Bucket URL (Access Denied): https://vk-spa-bucket.s3.eu-north-1.amazonaws.com/
+- CloudFront URL: https://d2hnwvtb4n5ptd.cloudfront.net/
+
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
