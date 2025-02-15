@@ -6,7 +6,7 @@ URL of instructions: https://github.com/rolling-scopes-school/aws/blob/main/aws-
 
 What has been done:
   - [x] Manual Bucket + CloudFront creation: done
-  - [] Automatic Bucket + CloudFront creation: done
+  - [ ] Automatic Bucket + CloudFront creation: done
 
 Manual creation
 - Bucket URL (Access Denied): https://vk-spa-bucket.s3.eu-north-1.amazonaws.com/
